@@ -115,7 +115,8 @@ A <alert>sample </alert> is <fillin characters="25" />, containing the individua
       
     </p>
   </subsection>
-  <title> Simple Tandom Sampling</title>
+  <subsection xml:id="subsec-SRS">
+  <title> Simple Random Sampling</title>
   
   \<definition xml:id="def-SRS">
     <statement>
@@ -124,7 +125,7 @@ A <alert>sample </alert> is <fillin characters="25" />, containing the individua
       </p>
     </statement>
   </definition>
-  
+   </subsection>
   <subsection>
     <title>Monday 8/22</title>
 
