@@ -10,38 +10,35 @@
     </p>
   </introduction>
 
-
-  <subsection>
-    <title>Objectives</title>
-
-    <p>
+    
+  <objectives>
       <ul>
-    <li>
-      <p>
+        <li>
+        <p>
         Construct a simple random sample
-      </p>
-    </li>
+        </p>
+        </li>
 
-    <li>
-      <p>
+        <li>
+        <p>
         Determine when samples of convenience are acceptable
-      </p>
-    </li>
+        </p>
+        </li>
 
-    <li>
-      <p>
+        <li>
+        <p>
         Describe stratified sampling, cluster sampling, systematic sampling, and voluntary response sampling
-      </p>
-    </li>
+        </p>
+        </li>
 
-    <li>
-      <p>
+        <li>
+        <p>
         Distinguish between statistics and parameters
-      </p>
-    </li>
-  </ul>
-    </p>
-  </subsection>
+        </p>
+        </li>
+      </ul>
+
+  </objectives>
 
 
   <subsection>
@@ -125,27 +122,40 @@ A <alert>sample </alert> is <fillin characters="25" />, containing the individua
       </p>
     </statement>
   </definition>
+
+  <alert> Construct a simple random sample: </alert>
+
+  <p>
+    Using a computer random number generator. Suppose there are N items in the population.
+  </p>
+
+  \<ol>
+    <li>
+      <p>
+        <fillin characters="75" />
+      </p>
+    </li>
+
+    <li>
+      <p>
+        <fillin characters="75" />
+      </p>
+    </li>
+
+    <li>
+      <p>
+        <fillin characters="75" />
+      </p>
+    </li>
+  </ol>
+
+  <p>
+    <alert> Example 1</alert> Using technology draw a simple random sample of five employees from the following list
+  </p>
+<image source="Note1Ex1.png">
+  <shortdescription>a table of names fro 40 employees at a company </shortdescription>
+</image>
+
    </subsection>
-  <subsection>
-    <title>Monday 8/22</title>
 
-    <p>
-    </p>
-  </subsection>
-
-
-  <subsection>
-    <title>Wednesday 8/24</title>
-
-    <p>
-    </p>
-  </subsection>
-
-
-  <subsection>
-    <title>Friday 8/26</title>
-
-    <p>
-    </p>
-  </subsection>
 </handout>
