@@ -22,10 +22,10 @@ var ptx_lunr_docs = [
   "id": "notes-week-01",
   "level": "1",
   "url": "notes-week-01.html",
-  "type": "Section",
+  "type": "Handout",
   "number": "",
-  "title": "Week 1",
-  "body": " Week 1   This is an outline of the topics we covered in the first week of class.     Monday 8\/22      Wednesday 8\/24      Friday 8\/26     "
+  "title": "Note 1: Sampling, Types of Data",
+  "body": " Note 1: Sampling, Types of Data   This is an outline of the topics we covered in the first week of class.    Objectives     Construct a simple random sample    Determine when samples of convenience are acceptable    Describe stratified sampling, cluster sampling, systematic sampling, and voluntary response sampling    Distinguish between statistics and parameters       1 Background and Definitions  In the months leading up to an election, polls often tell us the percentages of voters that prefer each of the candidates. How do pollsters obtain this information?   Ideal case: ask the opinion of every registered voter.   Workable: contact a relatively small number of voters, and use the information from these voters to predict the preferences of the entire group of voters.  The process of polling requires two major steps:                   Monday 8\/22      Wednesday 8\/24      Friday 8\/26     "
 },
 {
   "id": "notes-week-02",
