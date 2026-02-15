@@ -103,7 +103,7 @@
   <statement>
     <p>
       A <alert> population</alert>  is the <fillin characters="25" /> of individuals about which information is sought.
-A <alert>sample </alert>is <fillin characters="25" />, containing the individuals that are actually observed.
+A <alert>sample </alert> is <fillin characters="25" />, containing the individuals that are actually observed.
     </p>
   </statement>
 </definition>
@@ -115,7 +115,16 @@ A <alert>sample </alert>is <fillin characters="25" />, containing the individual
       
     </p>
   </subsection>
-  <!-- Can also be <handout> instead of <subsection> to get a printable version -->
+  <title> Simple Tandom Sampling</title>
+  
+  \<definition xml:id="def-SRS">
+    <statement>
+      <p>
+        A <alert>Simple Random Sample</alert> of size $n$ is a sample chosen by a method in which \<fillin characters="35" /> collection of $n$ population items is <fillin characters="25" /> <fillin characters="25" /> to make up  the sample just as in <fillin characters="25" />
+      </p>
+    </statement>
+  </definition>
+  
   <subsection>
     <title>Monday 8/22</title>
 
