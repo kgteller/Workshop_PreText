@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <handout xml:id="notes-week-01">
-  <title> Note 1: Sampling, Types of Data  </title>
+  <title> SLO 1: Sampling, Types of Data  </title>
 
 
   <introduction>
@@ -76,6 +76,38 @@
     </li>
 
     </ol>
+<definition xml:id="def-Statistics">
+  <statement>
+    <p>
+      <alert>Statsitics</alert> is the study of <fillin characters="75" />
+    </p>
+  </statement>
+</definition>
+
+<p>
+  
+</p>
+<p>
+
+
+  The polling problem is typical of a problem in statistics.
+  We want some information about a large group of individuals, but we are able to collect information on only a small part of that group.
+</p>
+
+<p>
+  In statistical terminology, the large group is called a <fillin characters="50" /> , 
+  and the part of the group on which we collect information is called a <fillin characters="50" />
+</p>
+
+<definition xml:id="def-Population_and_Sample">
+  <statement>
+    <p>
+      A <alert> population</alert>  is the \<fillin characters="25" /> of individuals about which information is sought.
+A <alert>sample </alert>>is <fillin characters="25" />, containing the individuals that are actually observed.
+    </p>
+  </statement>
+</definition>
+
 
     </p>
   
