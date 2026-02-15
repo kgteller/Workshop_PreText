@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="notes-week-01">
-  <title>Week 1</title>
+<handout xml:id="notes-week-01">
+  <title> Note 1: Sampling, Types of Data  </title>
+
 
   <introduction>
     <p>
@@ -9,6 +10,79 @@
     </p>
   </introduction>
 
+
+  <subsection>
+    <title>Objectives</title>
+
+    <p>
+      <ul>
+    <li>
+      <p>
+        Construct a simple random sample
+      </p>
+    </li>
+
+    <li>
+      <p>
+        Determine when samples of convenience are acceptable
+      </p>
+    </li>
+
+    <li>
+      <p>
+        Describe stratified sampling, cluster sampling, systematic sampling, and voluntary response sampling
+      </p>
+    </li>
+
+    <li>
+      <p>
+        Distinguish between statistics and parameters
+      </p>
+    </li>
+  </ul>
+    </p>
+  </subsection>
+
+
+  <subsection>
+    <title> 1 Background and Definitions </title>
+
+     <p>
+      In the months leading up to an election, polls often tell us the percentages of voters that prefer each of the candidates.
+      How do pollsters obtain this information?
+    </p>
+
+    <p>
+      <alert>Ideal case:</alert> ask the opinion of every registered voter.
+    </p>
+
+    <p>
+      <alert>Workable:</alert> contact a relatively small number of voters, and use the information from these voters to predict the preferences of the entire group of voters.
+    </p>
+
+    <p >
+      The process of polling requires two major steps:
+      <ol>
+    <li>
+      <p>
+        <fillin characters="75" />
+      </p>
+    </li>
+
+    <li>
+      <p>
+        <fillin characters="75" />
+      </p>
+    </li>
+
+    </ol>
+
+    </p>
+  
+    <p>
+      
+    </p>
+  </subsection>
   <!-- Can also be <handout> instead of <subsection> to get a printable version -->
   <subsection>
     <title>Monday 8/22</title>
@@ -32,4 +106,4 @@
     <p>
     </p>
   </subsection>
-</section>
+</handout>
