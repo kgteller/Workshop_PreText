@@ -35,42 +35,6 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "Week 2",
   "body": " Week 2   Monday      Wednesday      Friday     "
-},
-{
-  "id": "activity-01-intro-activity",
-  "level": "1",
-  "url": "activity-01-intro-activity.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Introduction Activity",
-  "body": " Introduction Activity    This is the introduction to the activity.      This is the first exercise.    "
-},
-{
-  "id": "activity-01-intro-activity-3",
-  "level": "2",
-  "url": "activity-01-intro-activity.html#activity-01-intro-activity-3",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  This is the first exercise.   "
-},
-{
-  "id": "handouts",
-  "level": "1",
-  "url": "handouts.html",
-  "type": "Chapter",
-  "number": "",
-  "title": "Handouts",
-  "body": " Handouts    "
-},
-{
-  "id": "homework",
-  "level": "1",
-  "url": "homework.html",
-  "type": "Chapter",
-  "number": "",
-  "title": "Homework",
-  "body": " Homework    "
 }
 ]
 
