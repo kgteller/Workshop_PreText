@@ -24,8 +24,26 @@ var ptx_lunr_docs = [
   "url": "notes-week-01.html",
   "type": "Handout",
   "number": "",
-  "title": "Note 1: Sampling, Types of Data",
-  "body": " Note 1: Sampling, Types of Data   This is an outline of the topics we covered in the first week of class.    Objectives     Construct a simple random sample    Determine when samples of convenience are acceptable    Describe stratified sampling, cluster sampling, systematic sampling, and voluntary response sampling    Distinguish between statistics and parameters       1 Background and Definitions  In the months leading up to an election, polls often tell us the percentages of voters that prefer each of the candidates. How do pollsters obtain this information?   Ideal case: ask the opinion of every registered voter.   Workable: contact a relatively small number of voters, and use the information from these voters to predict the preferences of the entire group of voters.  The process of polling requires two major steps:                   Monday 8\/22      Wednesday 8\/24      Friday 8\/26     "
+  "title": "SLO 1: Sampling, Types of Data",
+  "body": " SLO 1: Sampling, Types of Data   This is an outline of the topics we covered in the first week of class.    Objectives     Construct a simple random sample    Determine when samples of convenience are acceptable    Describe stratified sampling, cluster sampling, systematic sampling, and voluntary response sampling    Distinguish between statistics and parameters       1 Background and Definitions  In the months leading up to an election, polls often tell us the percentages of voters that prefer each of the candidates. How do pollsters obtain this information?   Ideal case: ask the opinion of every registered voter.   Workable: contact a relatively small number of voters, and use the information from these voters to predict the preferences of the entire group of voters.  The process of polling requires two major steps:                Statsitics is the study of       The polling problem is typical of a problem in statistics. We want some information about a large group of individuals, but we are able to collect information on only a small part of that group.  In statistical terminology, the large group is called a , and the part of the group on which we collect information is called a     A population is the \\ of individuals about which information is sought. A sample >is , containing the individuals that are actually observed.          Monday 8\/22      Wednesday 8\/24      Friday 8\/26     "
+},
+{
+  "id": "def-Statistics",
+  "level": "2",
+  "url": "notes-week-01.html#def-Statistics",
+  "type": "Definition",
+  "number": "1",
+  "title": "",
+  "body": "   Statsitics is the study of    "
+},
+{
+  "id": "def-Population_and_Sample",
+  "level": "2",
+  "url": "notes-week-01.html#def-Population_and_Sample",
+  "type": "Definition",
+  "number": "2",
+  "title": "",
+  "body": "  A population is the \\ of individuals about which information is sought. A sample >is , containing the individuals that are actually observed.   "
 },
 {
   "id": "notes-week-02",
