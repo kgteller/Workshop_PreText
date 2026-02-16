@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<handout xml:id="notes-week-01">
+ <handout xml:id="week01" xmlns:xi="http://www.w3.org/2001/XInclude">
+
   <title> SLO 1: Sampling, Types of Data  </title>
 
 
@@ -40,8 +41,7 @@
 
   </objectives>
 
-
-  <subsection>
+<section xml:id="sec-Background">
     <title> 1 Background and Definitions </title>
 
      <p>
@@ -57,12 +57,12 @@
       <alert>Workable:</alert> contact a relatively small number of voters, and use the information from these voters to predict the preferences of the entire group of voters.
     </p>
 
-    <p >
+    <p>
       The process of polling requires two major steps:
       <ol>
     <li>
       <p>
-        <fillin characters="75" />
+        <fillin characters="75"   />
       </p>
     </li>
 
@@ -71,28 +71,27 @@
         <fillin characters="75" />
       </p>
     </li>
-
     </ol>
-<definition xml:id="def-Statistics">
-  <statement>
+  </p>
+      
+    <definition xml:id="def-Statistics">
+   <statement>
     <p>
       <alert>Statsitics</alert> is the study of <fillin characters="75" />
     </p>
-  </statement>
-</definition>
+    </statement>
+  </definition>
+
 
 <p>
-  
-</p>
-<p>
-
-
   The polling problem is typical of a problem in statistics.
   We want some information about a large group of individuals, but we are able to collect information on only a small part of that group.
 </p>
 
 <p>
   In statistical terminology, the large group is called a <fillin characters="50" /> , 
+</p>
+<p> 
   and the part of the group on which we collect information is called a <fillin characters="50" />
 </p>
 
@@ -105,14 +104,10 @@ A <alert>sample </alert> is <fillin characters="25" />, containing the individua
   </statement>
 </definition>
 
-
-    </p>
   
-    <p>
-      
-    </p>
-  </subsection>
-  <subsection xml:id="subsec-SRS">
+  </section>
+
+  <section xml:id="subsec-SRS">
   <title> Simple Random Sampling</title>
   
   \<definition xml:id="def-SRS">
@@ -122,6 +117,8 @@ A <alert>sample </alert> is <fillin characters="25" />, containing the individua
       </p>
     </statement>
   </definition>
+
+  
 
   <alert> Construct a simple random sample: </alert>
 
@@ -148,14 +145,164 @@ A <alert>sample </alert> is <fillin characters="25" />, containing the individua
       </p>
     </li>
   </ol>
+<example level='0'>
+  
 
   <p>
-    <alert> Example 1</alert> Using technology draw a simple random sample of five employees from the following list
+  Using technology draw a simple random sample of five employees from the following list
   </p>
 <image source="Note1Ex1.png">
   <shortdescription>a table of names fro 40 employees at a company </shortdescription>
 </image>
+</example>
+ <p workspace="3in">
+  <statement>
+    <p>
+      <alert>Solution </alert>
+    </p>
+  </statement>
+</p>
 
-   </subsection>
+
+   </section>
+
+
+<section xml:id="subsec-Samples_of_Convenience">
+  <title>Samples of Convenience</title>
+  <p>
+    In some cases, it is difficult or impossible to draw a sample in a truly random way.
+  </p>
+
+<definition xml:id="def-SoC">
+  <statement>
+    <p>
+      a <term>Sample of Convenince</term> is a sample that is <fillin characters="75" />
+    </p>
+  </statement>
+</definition>
+
+<alert> Determine when samples of convenience are acceptable</alert>
+
+<ul>
+  <li>
+    <p>
+      A sample of convenience may be acceptable when it is reasonable to believe that <fillin characters="25" /> systematic difference between the sample and the population
+    </p>
+  </li>
+
+  <li>
+    <p>
+      A sample of convenience may be not acceptable when it is reasonable to believe that <fillin characters="25" /> systematic difference between the sample and the population
+    </p>
+  </li>
+</ul>
+
+<example>
+  <p>
+  A construction engineer has just received a shipment of 1000 concrete blocks, each weighing approximately 50 pounds. The blocks have been delivered in a large pile. The engineer wishes to investigate the crushing strength of the blocks by measuring the strengths in a sample of 10 blocks. Explain why it might be difficult to draw a simple random sample of blocks. Describe how the engineer might draw a sample of convenience.
+  </p>
+
+ 
+</example>
+
+
+ <p workpace='3in'>
+  <alert> Solution </alert>
+  </p>
+</section>
+
+<section xml:id="sec-Other_Sample_methods">
+  <title>Other Sampling Methods</title>
+
+  <ul>
+    <li>
+      <p>
+        <alert>Statified Sampling</alert>
+      </p>
+
+      <p>
+        In stratified sampling, the population is divided into groups, called strata, where the members of each stratum are similar in some way. Then a simple random sample is drawn from each stratum. Stratified sampling is useful when the strata differ from one another, but the individuals within a stratum tend to be alike.
+      </p>
+
+      <example>
+        <p>
+          A company has 1000 employees, of whom 800 are full-time and 200 are part-time. The company wants to survey 50 employees about their opinions regarding benefits. Attitudes toward benefits may differ considerably between full-time and part-time employees. Why might it be a good idea to draw a stratified sample? Describe how one might be drawn.
+        </p>
+      </example>
+
+      <p workpace='3in'>
+          <alert> Solution</alert>
+      </p>
+    </li>
+
+    <li>
+      <p>
+        <alert>Cluster Sampling</alert>
+      </p>
+      <p>
+        In cluster sampling, items are drawn from the population in groups, or clusters. Cluster sampling is useful when the population is too large and spread out for simple random sampling to be feasible. Cluster sampling is used extensively by U.S. government agencies in sampling the U.S. population to measure sociological factors such as income and unemployment.
+      </p>
+
+      <example>
+        <p>
+         To estimate the unemployment rate in a county, a government agency draws a simple random sample of households in the county. Someone visits each household and asks how many adults live in the household, and how many of them are unemployed. What are the clusters? Why is this a cluster sample? 
+        </p>
+      </example>
+      <p workspace='3in'>
+        <alert>Solution</alert>
+      </p>
+    </li>
+
+    <li>
+      <p>
+        <alert>Systematic Sampling</alert>
+      </p>
+      <p>
+       Imagine walking alongside a line of people and choosing every third one. That would produce a systematic sample. In a systematic sample, the population items are ordered. It is decided how frequently to sample items; for example, one could sample every third item, or every fifth item, or every hundredth item. Let k represent the sampling frequency. To begin the sampling, choose a starting place at random. Select the item in the starting place, along with every kth item after that. 
+      </p>
+      <p>
+        Systematic sampling is sometimes used to sample products as they come off an assembly line, in order to check that they meet quality standards.
+      </p>
+      <example>
+        Automobiles are coming off an assembly line. It is decided to draw a systematic sample for a detailed check of the steering system. The starting point will be the third car, then every fifth car after that will be sampled. Which cars will be sampled?
+      </example>
+      <p workspace='3in'>
+        <alert>Solution</alert>
+      </p>
+    </li>
+
+    <li>
+      <p>
+        <alert>Voluntary Response Sampling</alert>
+      </p>
+
+      <p>
+        Voluntary response samples are often used by the media to try to engage the audience. For example, a news commentator will invite people to tweet an opinion, or a radio announcer will invite people to call the station to say what they think. How reliable are voluntary response samples? To put it simply, {\bf voluntary response samples are never reliable}. People who go to the trouble to volunteer an opinion tend to have stronger opinions than is typical of the population. In addition, people with negative opinions are often more likely to volunteer their responses than those with positive opinions.
+      </p>
+      
+    </li>
+  </ul>
+
+  <image source="Note1Fig1.png">
+        <shortdescription> An image of 36 individuals in 3 even rows where random people are boxed in to show simple random sampling</shortdescription>
+      </image>
+
+  <image source="Note1Fig2.png">
+        <shortdescription> An image of 36 individuals in 3 even rows where every second person is boxed in to show systematic random sampling</shortdescription>
+  </image>
+
+  <image source="Note1Fig3.png">
+        <shortdescription> An image of 36 individuals in 3 even rows where every group of six people have the same color outfits and 2 people are randomly picked from each sub group to show stratified random sampling</shortdescription>
+  </image>
+
+ <image source="Note1Fig4.png">
+        <shortdescription> An image of 36 individuals in 3 even rows where every group of six people have the same color outfits and 2 subgroups are randomly picked to show cluster random sampling</shortdescription>
+  </image> 
+
+</section>
+
+
+
+
 
 </handout>

@@ -76,6 +76,8 @@
       <projects level="0" />
       <equations level="0" />
       <footnotes level="0" />
+      <example  level ="1"/>
+    
   </numbering>
 
   <!-- LaTeX specific options: set @print="yes" to get pdf set up   -->
